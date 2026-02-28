@@ -1,0 +1,8 @@
+= asciidoc-likbez
+
+Это ликбез по языку разметки AsciiDoc.
+
+https://en.wikipedia.org/wiki/AsciiDoc
+
+https://ru.wikipedia.org/wiki/AsciiDoc
+
